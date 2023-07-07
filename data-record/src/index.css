@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+table {
+  margin: 5rem auto;
+  border-radius: 2rem;
+  border: 5rem hidden #a0f014;
+  border-collapse: collapse;
+  box-shadow: 0 0 0 10px rgba(12, 14, 12, 0.891);
+  overflow: hidden;
+  max-width:80rem;
+}
+
+li, p, a,  td{
+  font-size: 1.6rem;
+  line-height: 2;
+}
+
+thead{
+  font-size:1.8rem;
+  background-color: #1c8ce7;
+  color: #1073b1;
+}
+
+th,
+td {
+  border: 10px solid #dc091a;
+  min-width: 20rem;
+  padding: 1.5rem;
+  line-height: 1;
+}
+
+td {
+  font-size: 1.4rem;
+}
+
+tr {
+  font-size:5rem;
+
+}
